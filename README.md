@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/BathulaVenuGopal9/Employee-Records-Payroll-Leave-Management-System-SQL-Analytics-Project/raw/main/1723191164_54239bccc14032a7f23b.jpg" 
+       alt="Employee Management System Banner" width="100%">
+</p>
+
 # Enterprise Employee Management System — SQL End-to-End Data Project
 
 # Project Overview
